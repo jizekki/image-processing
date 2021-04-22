@@ -2,6 +2,6 @@
 
 My implementation of different tasks of the Image processing course.
 
-# Using
+# Usage
 
-First configure and install `pvisu` (see the directory `pvisu`), install the `bcl` library (see the `bcl` directory). Only then you can build the source files of different directories. 
+First configure and install `pvisu` (see the folder `pvisu`), install the `bcl` library (see the `bcl` folder). Only then you can build the source files of different directories. 
